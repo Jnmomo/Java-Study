@@ -1,2 +1,2 @@
 # Java-Study
-This repository include my Java study file, homeworks and projects.
+This repository include my Java study files, homeworks and projects.
